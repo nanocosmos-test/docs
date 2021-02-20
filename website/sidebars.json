@@ -12,7 +12,7 @@
           "nanoplayer/nanoplayer_feature_stream_switching",
           "nanoplayer/nanoplayer_feature_fullscreen_api",
           "nanoplayer/nanoplayer_feature_customization",
-          "nanoplayer/nanoplayer_feature_network_reconnect"
+          "nanoplayer/nanoplayer_feature_reconnect_timeouts"
       ],
       "API": [
            "nanoplayer/nanoplayer_api",
@@ -34,7 +34,6 @@
     "Features": [
       "webrtc/nanostream_webrtc_screen_sharing",
       "webrtc/nanostream_webrtc_multiple_webcasts",
-      "webrtc/nanostream_webrtc_metrics",
       "webrtc/nanostream_webrtc_quality",
       "webrtc/nanostream_webrtc_device_selection",
       "webrtc/nanostream_webrtc_audio_video_only",
