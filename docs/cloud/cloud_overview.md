@@ -26,7 +26,7 @@ It contains
 
 - REST API for easy integration into custom products and web sites
 
-all managed by our [bintu dashboard and API](cloud/bintu_api.md)  
+all managed by our [bintu dashboard and API](bintu_api.md)  
  
 nanoStream Cloud is available worldwide with server locations in US East/West, Europe, Asia, Australia, etc. 
 The system is operating 24/7 for instant live streaming. 
