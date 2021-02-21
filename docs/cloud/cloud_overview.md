@@ -4,8 +4,7 @@ title: nanoStream Cloud Product and Services Overview
 sidebar_label: Overview
 ---
 
-nanoStream Cloud is a unique **ultra-low-latency live streaming platform** for your live video/audio content. 
-Ultra-low-latency (ULL) means 1 second from the camera to the video, glass-to-glass. nanoStream Playback runs on all devices and browsers.
+nanoStream Cloud is a unique **ultra-low-latency live streaming platform** for your live video/audio content. Ultra-low-latency means 1 second from the camera to the video, glass-to-glass. nanoStream Playback runs on all devices and browsers.
 
 nanoStream software and services can be completely **white-labeled to run under your own brand** for instant live streaming around the world in 1 second.
 
@@ -16,7 +15,7 @@ It contains
 
 - **nanoStream CDN** - a powerful ULL CDN with a global scalable network for any audiences worldwide
 
-- [nanoStream H5Live player (nanoPlayer) for all HTML5 web browsers](../nanoplayer/nanoplayer_introduction.md)
+- [nanoStream H5Live player for all HTML5 web browsers](../nanoplayer/nanoplayer_introduction.md)
 
 - [nanoStream Webcaster for all HTML5 web browsers](../webrtc/nanostream_webrtc_introduction.md)
 
